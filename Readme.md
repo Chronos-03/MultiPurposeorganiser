@@ -117,4 +117,16 @@ The right side of the main compartment has two top-facing storage sections with 
 * Print `BOX2COVER`, align it over the front of `BOX2`, and secure it tightly using **M3 screws**.
 
 
+## Bill of Materials (BOM)
+
+| Part | Description | Qty | Unit Price | Total | Vendor | Link |
+| :--- | :--- | :---: | :---: | :---: | :--- | :--- |
+| **[6000 ZZ Bearing](https://onlyscrews.in/products/6000-zz-deep-groove-ball-bearing-10x26x8)** | Smooth rotation | 6 | $0.19 | $1.14 | Onlyscrews | [Buy Here](https://onlyscrews.in/products/6000-zz-deep-groove-ball-bearing-10x26x8) |
+| **[Magnet (4mm × 2mm)](https://onlyscrews.in/products/4mm-diameter-neodymium-disc-magnets-n35?variant=51058762219833)** | Interconnection | 40 | $0.01 | $0.40 | Onlyscrews | [Buy Here](https://onlyscrews.in/products/4mm-diameter-neodymium-disc-magnets-n35?variant=51058762219833) |
+| **[M3 Brass Heatset](https://onlyscrews.in/products/m3-x-4mm-3d-printing-brass-threaded-inserts-dia-3mm-length-4mm)** | For the screw thread | 20 | $0.01 | $0.20 | Onlyscrews | [Buy Here](https://onlyscrews.in/products/m3-x-4mm-3d-printing-brass-threaded-inserts-dia-3mm-length-4mm) |
+| **[M3 Screw Set](https://onlyscrews.in/products/m3-phillips-countersunk-ss304-assorted-box)** | For attaching parts | 1 | $2.21 | $2.21 | Onlyscrews | [Buy Here](https://onlyscrews.in/products/m3-phillips-countersunk-ss304-assorted-box) |
+| **[Super Glue](https://onlyscrews.in/products/kwality-777-non-whitening-extremely-strong-bonding-adhesive-20g)** | Attaching the split parts | 2 | $0.47 | $0.94 | Onlyscrews | [Buy Here](https://onlyscrews.in/products/kwality-777-non-whitening-extremely-strong-bonding-adhesive-20g) |
+| **Total** | | | | **$4.89** | | |
+
+
 *Note: This README was written by me, with only basic grammar, spelling, and formatting improvements done by AI.*
